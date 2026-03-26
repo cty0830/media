@@ -1,0 +1,1 @@
+30, maxval, cv2.THRESH_BINARY
