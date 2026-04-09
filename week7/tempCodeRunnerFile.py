@@ -1,0 +1,1 @@
+np.uint8(np.clip(dst_opencv, 0, 255))
